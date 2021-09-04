@@ -3,7 +3,7 @@ import {useLocation } from 'react-router-dom';
 
 
 const Image = ()=>{
-    console.log("hi")
+  
     const {state} = useLocation ();
 
     return (
